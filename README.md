@@ -100,6 +100,12 @@
 *   使用 Matplotlib Agg 後端解決 `RuntimeError`。
 *   將 Flask 應用程式轉換為 Streamlit 應用程式。
 
+## 線上展示 (Live Demo)
+
+您可以透過以下連結體驗本專案的 Streamlit 應用程式：
+
+[https://aiot-hw01-zs.streamlit.app/](https://aiot-hw01-zs.streamlit.app/)
+
 ## 如何運行 (How to Run)
 
 1.  **克隆儲存庫:**
