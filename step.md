@@ -18,3 +18,4 @@
 16. 嘗試以非偵錯模式執行 Flask 應用程式以解決 OSError
 17. 使用 Matplotlib Agg 後端解決 RuntimeError
 18. 將離最遠的五個點用不同顏色標記出來
+19. 將 Flask 應用程式轉換為 Streamlit 應用程式。
