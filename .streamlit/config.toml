@@ -1,0 +1,10 @@
+[general]
+email = ""
+
+[browser]
+serverAddress = "localhost"
+gatherUsageStats = false
+
+[server]
+headless = true
+port = 8501
